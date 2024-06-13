@@ -6,10 +6,9 @@ galaxy_info:
   description: Docker installation for Linux.
   galaxy_tags: []
   license: "license (BSD, MIT)"
-  min_ansible_version: 8.0.0
+  min_ansible_version: 10.0.1
   role_name: wordpress_install
   platforms:
     - name: EL
       release:
-        - 8
         - 9

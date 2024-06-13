@@ -3,7 +3,7 @@
 Role Description
 =========
 
-Installs Docker for CentOS7/Stream8.
+Installs Docker for Linux.
 
 Requirements
 ------------
